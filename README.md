@@ -1,12 +1,14 @@
 # Askpython-Quiz
+## what is Askpython-Quiz?
+- Askpython-Quiz is a question game made with python to test your knowledge
+- Only 10 questions are available right now
+
+## Needed?
+- Python 3
+- Or a online python compiler
+
+## How to?
+- Download `Askpthonquiz.py` from [here](https://github.com/RedEdge967/Askpython-Quiz/releases) and run it with python 3
+- Or open the `askpythonquiz.py` file in this repo and copy the code, go to the online compiler and paste it and run.
 
 
-🌈Hello Everyone!!!🌈
-
-I started to make some projects from python this week😎. and this is my first python project.
-It is a quiz project. If you answer the all questions corrctly, you will get 100% marks.
-It is made with general knowledge. It is very easy.
-
-`Note : you will need python to run this file.`
-
-😉Enjoy answering the questions😉.
